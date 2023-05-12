@@ -101,7 +101,39 @@ npm install</code></pre>
   "rating": 8.6
 }</code></pre>
 
-<h4>PUT /books/:id</h4>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Delete Book API</title>
+  </head>
+  <body>
+    <h1>Delete /books/:id API</h1>
+    <p>Deletes the book with the specified ID.</p>
+    <h2>Example Response:</h2>
+    <pre>
+      <code>
+        {
+          "message": "Book deleted successfully"
+        }
+      </code>
+    </pre>
+    <h2>Built With:</h2>
+    <ul>
+      <li>Node.js</li>
+      <li>Express.js</li>
+    </ul>
+    <h2>Authors:</h2>
+    <ul>
+      <li>John Doe - johndoe</li>
+    </ul>
+    <h2>License:</h2>
+    <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+  </body>
+</html>
+
+
+
+
 
 
 
