@@ -1,0 +1,59 @@
+
+   [ {
+    "id": 1,
+    "title": "Attack on Titan",
+    "genre": "Action, Dark Fantasy",
+    "releaseYear": 2013,
+       "rating": 9
+},
+{
+    "id": 2,
+    "title": "Naruto",
+    "genre": "Action, Adventure",
+    "releaseYear": 2002,
+    "rating": 8.3
+},
+
+{
+    "id": 3,
+    "title": "One Piece",
+    "genre": "Action, Adventure",
+    "releaseYear": 1999,
+    "rating": 8.7
+},
+{
+    "id": 4,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "genre": "Action, Adventure",
+    "releaseYear": 2009,
+    "rating": 9.1
+},
+{
+    "id": 5,
+    "title": "Death Note",
+    "genre": "Mystery, Thriller",
+    "releaseYear": 2006,
+    "rating": 8.6
+},
+{
+    "id": 6,
+    "title": "Your name",
+    "genre": "Action, Dark Fantasy",
+    "releaseYear": 2013,
+    "rating": 9
+},
+{
+    "id": 8,
+    "title": "Your name",
+    "genre": "magic,  Fantasy",
+    "releaseYear": 2013,
+    "rating": 9
+},
+{
+    "id": 7,
+    "title": "Taisho Otome Fairy Tale ",
+    "genre": "Action, Dark Fantasy",
+    "releaseYear": 2013,
+    "rating": 9
+}
+]
