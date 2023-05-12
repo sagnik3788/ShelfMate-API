@@ -1,5 +1,5 @@
 # ShelfMate-API
-<h1>Book Directory API</h1>
+
 <p>This is a simple RESTful API for managing a book directory, built with Node.js and Express.js.</p>
 
 <h2>Getting Started</h2>
