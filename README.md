@@ -122,12 +122,6 @@ npm install</code></pre>
       <li>Node.js</li>
       <li>Express.js</li>
     </ul>
-    <h2>Authors:</h2>
-    <ul>
-      <li>John Doe - johndoe</li>
-    </ul>
-    <h2>License:</h2>
-    <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
   </body>
 </html>
 
